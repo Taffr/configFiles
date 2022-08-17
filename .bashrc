@@ -6,6 +6,8 @@ alias v=vim
 alias c=clear
 alias e=exit
 
+
+
 # Set caps = escape
 setxkbmap -option caps:escape
 #set vi bindings
